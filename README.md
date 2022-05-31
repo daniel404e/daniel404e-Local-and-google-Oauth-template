@@ -8,6 +8,11 @@ replace your api key and secret key in .env file
 
 
 
+Use  `node app.js` to run the program .
+normally it is hosted @ port 3000.
+
+
+
 
 
 
