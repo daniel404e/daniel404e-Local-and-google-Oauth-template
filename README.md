@@ -17,6 +17,8 @@ replace your api key and secret key in .env file
 
 all conflicts regarding user registration using Oauth or local  has been taken care of.The users are addressed by their username or email-id even if they sign in via Oauth
 ![image](https://user-images.githubusercontent.com/83254980/171171616-35d9b565-bbd8-4063-9474-26d880101f16.png)
+![image](https://user-images.githubusercontent.com/83254980/171173000-273345b2-e2c0-4b27-8bd3-243885eb8d99.png)
+
 
 
 the Oauth callback address has to be changed in  google console
