@@ -10,9 +10,12 @@ replace your api key and secret key in .env file
 
 Use  `node app.js` to run the program .
   it is hosted @ port 3000.
+  run proxy/ change port in code.
 
 
 
+
+Hosted Live at https://oauth-template-2.azurewebsites.net/
 
 
 
